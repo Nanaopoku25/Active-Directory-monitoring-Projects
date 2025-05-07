@@ -19,7 +19,7 @@ To get started with these projects, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone 
+    git clone https://github.com/Nanaopoku25/Active-Directory-monitoring-Projects
     cd Active-Directory-Monitoring-Projects
     ```
 
