@@ -7,11 +7,11 @@ Welcome to the Active Directory Monitoring Projects repository! This repository 
 
 1. [Active Directory Monitoring with Grafana](https://github.com/Nanaopoku25/Active-Directory-monitoring-Projects/blob/main/Active%20Directory%20Monitoring%20with%20Grafana)
 2. [Active Directory Logs and Insights with Splunk](https://github.com/Nanaopoku25/Active-Directory-monitoring-Projects/blob/main/Active-Directory-Monitoring-Splunk)
-3. [Real-time Active Directory Metrics with Datadog](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-3-real-time-active-directory-monitoring-with-datadog.md)
-4. [Active Directory Health Checks using Nagios](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-4-active-directory-monitoring-using-nagios.md)
-5. [Active Directory Performance Monitoring with Checkmk](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-5-active-directory-monitoring-with-checkmk.md)
-6. [Active Directory Monitoring and Alerting with Prometheus](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-6-active-directory-monitoring-with-prometheus.md)
-7. [Visualizing Active Directory Performance Metrics with Cacti](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-7-active-directory-monitoring-with-cacti.md)
+3. [Real-time Active Directory Metrics with Datadog]()
+4. [Active Directory Health Checks using Nagios]()
+5. [Active Directory Performance Monitoring with Checkmk]()
+6. [Active Directory Monitoring and Alerting with Prometheus]()
+7. [Visualizing Active Directory Performance Metrics with Cacti]()
 
 ## Getting Started
 
