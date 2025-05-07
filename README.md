@@ -5,7 +5,7 @@ Welcome to the Active Directory Monitoring Projects repository! This repository 
 
 ## Projects
 
-1. [Active Directory Monitoring with Grafana](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-1-active-directory-monitoring-with-grafana.md)
+1. [Active Directory Monitoring with Grafana](https://github.com/Nanaopoku25/Active-Directory-monitoring-Projects/blob/main/Active%20Directory%20Monitoring%20with%20Grafana)
 2. [Active Directory Logs and Insights with Splunk](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-2-active-directory-monitoring-with-splunk.md)
 3. [Real-time Active Directory Metrics with Datadog](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-3-real-time-active-directory-monitoring-with-datadog.md)
 4. [Active Directory Health Checks using Nagios](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects/blob/main/project-4-active-directory-monitoring-using-nagios.md)
