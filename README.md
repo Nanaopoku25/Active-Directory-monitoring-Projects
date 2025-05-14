@@ -27,7 +27,7 @@ To get started with these projects, follow these steps:
 
 ## About Me
 
-I am a cybersecurity expert with a passion for teaching and helping others learn essential cybersecurity skills through practical, hands-on projects. Connect with me on social media for more updates and resources:
+I am a cybersecurity expert with a passion for learning and helping others learn essential cybersecurity skills through practical, hands-on projects. Connect with me on social media for more updates and resources:
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/nana-opoku-a1523a94/)
 [![YouTube](https://img.icons8.com/fluent/48/000000/youtube-play.png)]()
